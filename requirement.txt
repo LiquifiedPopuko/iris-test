@@ -1,1 +1,1 @@
-sklearn==latest
+scikit_learn==latest
