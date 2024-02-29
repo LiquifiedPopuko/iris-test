@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle
+import sklearn
 
 pickle_in = open('model_iris.pkl','rb')
 classifier = pickle.load(pickle_in)
